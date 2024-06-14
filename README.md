@@ -14,7 +14,12 @@
 
 - I'm a web developer living in Palmas/TO, Brazil :brazil:
 - I work with Python :snake: and Django :unicorn:
-- I maintain a few open-source projetcs
+- I maintain a few open-source projects
+
+Cookiecutter Django: https://github.com/cookiecutter/cookiecutter-django
+
+If you use them and they save you time, please consider supporting me.
+
 
 
 

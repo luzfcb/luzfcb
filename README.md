@@ -18,7 +18,7 @@
 
 Cookiecutter Django: https://github.com/cookiecutter/cookiecutter-django
 
-If you use them and they save you time, please consider supporting me.
+If you use them and they save you time, [please consider supporting me](https://github.com/sponsors/luzfcb).
 
 
 
